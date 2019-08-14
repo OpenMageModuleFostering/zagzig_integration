@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Zagzig_Integration</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/GPL-3.0">GPL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Zagzig integration extension for Magento.</summary>
+    <description>Zagzig Integration allows Magento users to automatically update their Zagzig Partner Portal with sales information so that no leads needs to be updated manually.</description>
+    <notes>Initial release.</notes>
+    <authors><author><name>Pawel Burzynski</name><user>pawelburzynski</user><email>pawelburzynski@moneydebtandcredit.com</email></author></authors>
+    <date>2014-07-15</date>
+    <time>08:00:33</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Zagzig_Integration.xml" hash="3b5e26fa50c9abb7034512e866ed47f6"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
